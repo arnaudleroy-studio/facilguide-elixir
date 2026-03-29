@@ -5,7 +5,7 @@ defmodule FacilGuide do
   Homepage: https://facil.guide
   """
 
-  @version "0.1.0"
+  @version "0.1.1"
   @base_url "https://facil.guide"
 
   def version, do: @version

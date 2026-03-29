@@ -1,0 +1,1 @@
+{application,facilguide,[{modules,['Elixir.FacilGuide']},{optional_applications,[]},{applications,[kernel,stdlib,elixir]},{description,"Multilingual tech guide utilities in 5 languages."},{registered,[]},{vsn,"0.1.1"}]}.
