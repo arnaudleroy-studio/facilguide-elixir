@@ -4,7 +4,7 @@ defmodule FacilGuide.MixProject do
   def project do
     [
       app: :facilguide,
-      version: "0.1.1",
+      version: "0.1.2",
       elixir: "~> 1.14",
       description: "Multilingual tech guide utilities in 5 languages.",
       package: package(),
